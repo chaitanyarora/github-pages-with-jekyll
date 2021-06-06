@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Github is home alike"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Glad to join Github today!
